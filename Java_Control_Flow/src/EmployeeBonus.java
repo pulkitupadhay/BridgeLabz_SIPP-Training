@@ -1,5 +1,3 @@
-package Level_1;
-
 import java.util.Scanner;
 
 public class EmployeeBonus {
@@ -13,3 +11,4 @@ public class EmployeeBonus {
         System.out.println("Bonus amount: " + bonus);
     }
 }
+
