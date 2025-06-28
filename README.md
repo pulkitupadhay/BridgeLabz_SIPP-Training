@@ -80,21 +80,21 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ### 📅 26/06/25 (Thu) – Day 1 – Student Report
 *Que: Created Student and Student_Report classes to input multiple students' subject marks, calculate average and assign grades, and display a formatted report card*
-[Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_1)
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_1)
 
 ---
 
 ### 📅 27/06/25 (Fri) – Day 2
 *Que1: Implemented BookBuddy with book addition, sorting, search by author, and conversion to array* ||
 *Que2: Implemented quiz platform to evaluate answers, calculate scores, assign grades, and handle input validation*
-[Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_2)
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_2)
 
 ---
 
 ### 📅 28/06/25 (Sat) – Day 3
 *Que1: Implemented CinemaTime movie schedule manager with all core features* ||
 *Que2: Implemented Flight Booking System with search, booking, and display features*
-[Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_3)
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_3)
 
 ---
 
