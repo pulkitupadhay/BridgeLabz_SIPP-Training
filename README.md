@@ -76,6 +76,13 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
+### 📅 25/06/25 (wed) – Day 4 – Class Diagrams  
+*Topics*: Classes vs. Objects in Java, Class Diagrams, Object Diagrams, and Sequence Diagrams.
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/OOPs/OBJECT_ORIENTED_DESIGN_PRINCIPLES)
+
+
+---
+
 ## Workshop Branch 🧱
 
 ### 📅 26/06/25 (Thu) – Day 1 – Student Report
