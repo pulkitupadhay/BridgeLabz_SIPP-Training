@@ -105,7 +105,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 ---
 
 ### 📅 28/06/25 (Sat) – Day 3
-*Que1: Implemented CinemaTime movie schedule manager with all core features* ||
+*Que1: Implemented CinemaTime movie schedule manager with all core features* ||                                                                                              
 *Que2: Implemented Flight Booking System with search, booking, and display features*
 🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_3)
 
