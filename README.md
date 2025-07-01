@@ -80,6 +80,12 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 *Topics*: Classes vs. Objects in Java, Class Diagrams, Object Diagrams, and Sequence Diagrams.
 🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/OOPs/OBJECT_ORIENTED_DESIGN_PRINCIPLES)
 
+---
+
+### 📅 01/07/25 (Tue) – Day 5 – Inheritence and it's types  
+*Topics*: - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, Access Modifiers and Inheritance
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/OOPs/Java_Inheritence/src/Inheritence)
+
 
 ---
 
