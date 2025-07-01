@@ -98,14 +98,14 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 ---
 
 ### 📅 27/06/25 (Fri) – Day 2
-*Que1: Implemented BookBuddy with book addition, sorting, search by author, and conversion to array* ||
+*Que1: Implemented BookBuddy with book addition, sorting, search by author, and conversion to array*                                                                         
 *Que2: Implemented quiz platform to evaluate answers, calculate scores, assign grades, and handle input validation*
 🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_2)
 
 ---
 
 ### 📅 28/06/25 (Sat) – Day 3
-*Que1: Implemented CinemaTime movie schedule manager with all core features* ||                                                                                              
+*Que1: Implemented CinemaTime movie schedule manager with all core features*                                                                                                
 *Que2: Implemented Flight Booking System with search, booking, and display features*
 🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_3)
 
