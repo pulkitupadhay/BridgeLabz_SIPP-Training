@@ -111,5 +111,13 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
+## DSA Branch 📂
+
+### 📅 03/07/25 (Mon) – Day 1 – LinkedList  
+*Topics*: Introduction of Data Structure,Key Features of Data Structures in Java,Types of Data Structures in Java,Single Linked List, Double Linked List,Circular Linked List
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/DSA/LINKED_LISTS)
+
+---
+
 ## 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
