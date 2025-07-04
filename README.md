@@ -111,7 +111,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
-### 📅 04/07/25 (Thu) – Day 4
+### 📅 04/07/25 (Fri) – Day 4
 *Que: Refactored ParcelTracker with shortened variable and method names for cleaner code*
 🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_4)
 
@@ -119,7 +119,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ## DSA Branch 📂
 
-### 📅 03/07/25 (Mon) – Day 1 – LinkedList  
+### 📅 03/07/25 (Thu) – Day 1 – LinkedList  
 *Topics*: Introduction of Data Structure,Key Features of Data Structures in Java,Types of Data Structures in Java,Single Linked List, Double Linked List,Circular Linked List
 🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/DSA/LINKED_LISTS)
 
