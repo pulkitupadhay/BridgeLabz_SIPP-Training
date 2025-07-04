@@ -111,6 +111,12 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
+### 📅 04/07/25 (Thu) – Day 4
+*Que: Refactored ParcelTracker with shortened variable and method names for cleaner code*
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_4)
+
+---
+
 ## DSA Branch 📂
 
 ### 📅 03/07/25 (Mon) – Day 1 – LinkedList  
