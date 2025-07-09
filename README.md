@@ -125,5 +125,17 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
+### 📅 07/07/25 (Mon) – Day 2 – Stack and Queue  
+*Topics*: Introduction of Stack and Queue linear Data Structures
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/DSA/Stack_Queue_HashMap)
+
+---
+
+### 📅 08/07/25 (Tue) – Day 3 – HashMap  
+*Topics*: Introduction to HashMap Data Structure
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/DSA/Stack_Queue_HashMap)
+
+---
+
 ## 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
