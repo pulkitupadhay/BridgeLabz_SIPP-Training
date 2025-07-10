@@ -119,7 +119,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ### 📅 10/07/25 (Thu) – Day 5
 *Que: Implement university course enrollment system with OOP concepts including students, courses, faculty grading, GPA calculation, and transcript display.*
-🔗 [Code]([https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_4](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_5))
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_5)
 
 ---
 
