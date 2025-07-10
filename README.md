@@ -137,5 +137,11 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
+### 📅 10/07/25 (Tue) – Day 4 – Sorting Algorithms  
+*Topics*: Introduction to Sorting Algorithms
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/DSA/Java_Sorting_Algo/src/Sorting_Algorithms)
+
+---
+
 ## 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
