@@ -2,7 +2,7 @@ package Sorting_Algorithms;
 
 public class CountingSortAges {
     public static void main(String[] args) {
-        int[] ages = {15, 17, 13, 12, 15, 16, 14, 18, 10, 11};
+        int[] ages = {16, 17, 13, 12, 15, 16, 14, 18, 11, 10};
         countingSort(ages, 10, 18);
         for (int age : ages) System.out.print(age + " ");
     }
