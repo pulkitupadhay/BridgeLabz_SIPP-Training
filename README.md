@@ -143,9 +143,22 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
-### 📅 10/07/25 (Tue) – Day 4 – Sorting Algorithms  
+### 📅 9/07/25 (Wed) – Day 4 – Sorting Algorithms  
 *Topics*: Introduction to Sorting Algorithms
 🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/DSA/Java_Sorting_Algo/src/Sorting_Algorithms)
+
+---
+
+### 📅 10/07/25 (Thu) – Day 5 – Searching Algorithms  
+*Topics*: Introduction to Searching Algorithms
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/DSA/Searching_Algo/src/Algorithms)
+
+---
+
+### 📅 11/07/25 (Fri) – Day 6 –  Algorithm's Runtime Analysis & Big-O Notation
+*Topics*: Runtime Analysis;Understanding Big-O Notation;Time Complexity Analysis;Space Complexity Analysis;Best, Worst, and Average Case Complexities;Practical Guidelines for Optimizing Java Code
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/DSA/Algorithm's_Runtime_Analysis)
+
 
 ---
 
