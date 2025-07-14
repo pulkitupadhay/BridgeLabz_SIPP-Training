@@ -91,7 +91,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ## Workshop Branch 🧱
 
-### 📅 26/06/25 (Thu) – Day 1 – Student Report
+### 📅 26/06/25 (Thu) – Day 1 
 *Que: Created Student and Student_Report classes to input multiple students' subject marks, calculate average and assign grades, and display a formatted report card.*
 🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_1)
 
