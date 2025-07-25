@@ -166,6 +166,19 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 *Topics*: Runtime Analysis;Understanding Big-O Notation;Time Complexity Analysis;Space Complexity Analysis;Best, Worst, and Average Case Complexities;Practical Guidelines for Optimizing Java Code
 🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/DSA/Algorithm's_Runtime_Analysis)
 
+---
+
+## GenericsCollections Branch 🧱
+
+### 📅 21/07/25 (Mon) – Day 1 – Generics  
+*Topics*: Introduction to Generics,Type Parameters, Generic Classes, Generic Methods, Bounded Type Parameters, Wildcards
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/GenericsCollections/Java_Generics/src/generics)
+
+---
+
+### 📅 23/07/25 (Wed) – Day 2 – Collections  
+*Topics*: Overview of Collections Framework, Hierarchy of Collections Framework
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/GenericsCollections/Collections/src)
 
 ---
 
