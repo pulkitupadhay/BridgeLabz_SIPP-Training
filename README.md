@@ -105,8 +105,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 ---
 
 ### 📅 28/06/25 (Sat) – Day 3
-*Que1: Implemented CinemaTime movie schedule manager with all core features.*                                                                                                
-*Que2: Implemented Flight Booking System with search, booking, and display features.*
+*Que1: Implemented CinemaTime movie schedule manager with all core features.*                                                                                           *Que2: Implemented Flight Booking System with search, booking, and display features.*
 🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_3)
 
 ---
@@ -136,7 +135,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 ---
 
 ### 📅 28/07/25 (Mon) – Day 8
-*Que1: Add StudentMarksReport with functions to add marks, calculate averages, and find top student*                                                                   *Que2: Add StudentManagementSystem with add, remove, search, sort, and subject-based student filtering features*
+*Que1: Add StudentMarksReport with functions to add marks, calculate averages, and find top student*                                                                    *Que2: Add StudentManagementSystem with add, remove, search, sort, and subject-based student filtering features*
 🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_8)
 
 ---
