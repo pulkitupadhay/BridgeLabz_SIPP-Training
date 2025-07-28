@@ -124,8 +124,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 ---
 
 ### 📅 14/07/25 (Mon) – Day 6
-*Que1: Implemented book catalog system using genre-wise linked lists with add, borrow, and display functionalities*
-*Que2: Added doubly linked list-based browser history navigator with visit, back, forward, and history display features*
+*Que1: Implemented book catalog system using genre-wise linked lists with add, borrow, and display functionalities*                                                    *Que2: Added doubly linked list-based browser history navigator with visit, back, forward, and history display features*
 🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_6)
 
 ---
@@ -137,8 +136,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 ---
 
 ### 📅 28/07/25 (Mon) – Day 8
-*Que1: Add StudentMarksReport with functions to add marks, calculate averages, and find top student*
-*Que2: Add StudentManagementSystem with add, remove, search, sort, and subject-based student filtering features*
+*Que1: Add StudentMarksReport with functions to add marks, calculate averages, and find top student*                                                                    *Que2: Add StudentManagementSystem with add, remove, search, sort, and subject-based student filtering features*
 🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_8)
 
 ---
