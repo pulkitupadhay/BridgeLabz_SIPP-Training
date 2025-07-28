@@ -130,6 +130,12 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
+### 📅 25/07/25 (Fri) – Day 7
+*Que: Add AddressBook with contact management, sorting by name/phone, and address comparison features*
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_7)
+
+---
+
 ## DSA Branch 📂
 
 ### 📅 03/07/25 (Thu) – Day 1 – LinkedList  
