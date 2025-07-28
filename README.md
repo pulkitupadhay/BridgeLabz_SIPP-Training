@@ -136,6 +136,12 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
+### 📅 28/07/25 (Mon) – Day 8
+*Que: Add StudentMarksReport with functions to add marks, calculate averages, and find top student*
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/Workshop/Workshop/src/Day_8)
+
+---
+
 ## DSA Branch 📂
 
 ### 📅 03/07/25 (Thu) – Day 1 – LinkedList  
