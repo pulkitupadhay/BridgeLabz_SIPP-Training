@@ -192,5 +192,11 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
+### 📅 29/07/25 (Tue) – Day 3 – Java_Streams
+*Topics*: Java I/O Streams, Types of Stream (File Streams, Object Streams, ByteArray Streams, Buffered Streams, Reader and Writer)
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/GenericsCollections/Java_Streams/src/stream)
+
+---
+
 ## 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
