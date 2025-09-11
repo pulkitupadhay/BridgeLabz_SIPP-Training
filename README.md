@@ -198,5 +198,24 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
+### 📅 07/08/25 (Thu) – Day 4 – Java_Regex
+*Topics*: problems related to regex and Junit
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/GenericsCollections/regex)
+
+---
+
+### 📅 18/08/25 (Mon) – Day 5 – Lambda Expressions
+*Topics*: problems related to Lambda Expressions
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/GenericsCollections/LambdaExpressions)
+
+---
+
+### 📅 27/08/25 (Wed) – Day 6 – Functional Interfaces
+*Topics*: problems related to Functional Interfaces
+🔗 [Code](https://github.com/pulkitupadhay/BridgeLabz_SIPP-Training/tree/GenericsCollections/Functional_Interfaces)
+
+
+---
+
 ## 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
